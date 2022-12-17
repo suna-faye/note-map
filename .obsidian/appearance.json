@@ -1,4 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Dracula Official"
+  "cssTheme": "Dracula Official",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Dank Mono",
+  "monospaceFontFamily": "Dank Mono",
+  "baseFontSize": 20,
+  "nativeMenus": false
 }

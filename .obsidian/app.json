@@ -1,3 +1,11 @@
 {
-  "spellcheck": true
+  "spellcheck": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "showLineNumber": true
 }
