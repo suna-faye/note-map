@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efb491e05e1ffa27",
+        "id": "9922523e2a0f18e4",
         "type": "tabs",
         "children": [
           {
-            "id": "93d7c4652854dc62",
+            "id": "f3c30e61b0fe6c4c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.51103591918945
+    "width": 311.51103591918945
   },
   "right": {
     "id": "a2df8af30522ebcc",
@@ -129,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "93d7c4652854dc62",
+  "active": "f3c30e61b0fe6c4c",
   "lastOpenFiles": [
     "Untitled.md",
     "Title1.md",
