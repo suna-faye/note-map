@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Tools/git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.51103591918945
+    "width": 311.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "a2df8af30522ebcc",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Tools/git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Tools/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Tools/git.md"
               }
             }
           }
@@ -140,6 +141,7 @@
   },
   "active": "f3c30e61b0fe6c4c",
   "lastOpenFiles": [
+    "Untitled.md",
     "Test.md",
     "Title1.md",
     "Title.md",
@@ -148,7 +150,6 @@
     "another page.md",
     "ne page.md",
     "title.md",
-    "Untitled 3.md",
-    "Untitled 2.md"
+    "Untitled 3.md"
   ]
 }
