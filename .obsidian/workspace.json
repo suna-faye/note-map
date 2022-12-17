@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cb50c9881b7f7733",
+        "id": "124e4dbd974e493a",
         "type": "tabs",
         "children": [
           {
-            "id": "e0666de540f3f93e",
+            "id": "8dfeadf7a6a4c510",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -138,10 +129,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e0666de540f3f93e",
+  "active": "8dfeadf7a6a4c510",
   "lastOpenFiles": [
-    "Tools/git.md",
     "README.md",
+    "Tools/git.md",
     "Untitled.md",
     "Test.md",
     "Title1.md",
