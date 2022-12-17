@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "READEME.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.51103591918945,
-    "collapsed": true
+    "width": 311.51103591918945
   },
   "right": {
     "id": "a2df8af30522ebcc",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "READEME.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "READEME.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "READEME.md"
+                "file": "README.md"
               }
             }
           }
@@ -139,10 +138,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79d8916f5750fa9a",
+  "active": "4d58f1fcca516df5",
   "lastOpenFiles": [
     "Tools/git.md",
-    "READEME.md",
+    "README.md",
     "Untitled.md",
     "Test.md",
     "Title1.md",
