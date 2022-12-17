@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "124e4dbd974e493a",
+        "id": "c816c144de495924",
         "type": "tabs",
         "children": [
           {
-            "id": "8dfeadf7a6a4c510",
+            "id": "357cebe6941e91f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tools/git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.51103591918945
+    "width": 229.51103591918945
   },
   "right": {
     "id": "a2df8af30522ebcc",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tools/git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tools/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tools/git.md"
+              }
             }
           }
         ],
@@ -129,10 +138,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8dfeadf7a6a4c510",
+  "active": "357cebe6941e91f2",
   "lastOpenFiles": [
-    "README.md",
+    "2022-12-17.md",
     "Tools/git.md",
+    "README.md",
     "Untitled.md",
     "Test.md",
     "Title1.md",
