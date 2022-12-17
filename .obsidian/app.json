@@ -3,7 +3,7 @@
   "promptDelete": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "showUnsupportedFiles": true,
   "strictLineBreaks": true,
   "showFrontmatter": true,
