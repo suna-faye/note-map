@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/linux.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/linux.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/linux.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/linux.md"
+                "file": "README.md"
               }
             }
           }
@@ -140,8 +140,8 @@
   },
   "active": "2cd2be9d95a5510b",
   "lastOpenFiles": [
-    "Tools/linux.md",
     "Tools/node.md",
+    "Tools/linux.md",
     "Tools/git.md",
     "Untitled.md",
     "2022-12-17.md",
