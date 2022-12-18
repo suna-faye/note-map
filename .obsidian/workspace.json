@@ -11,13 +11,8 @@
             "id": "2cd2be9d95a5510b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/linux.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -152,7 +147,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "47c539fb282bd056",
+  "active": "4d58f1fcca516df5",
   "lastOpenFiles": [
     "tools/git.md",
     "tools/linux.md",
