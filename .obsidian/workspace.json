@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/oh-my-zsh.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/oh-my-zsh.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/oh-my-zsh.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/oh-my-zsh.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,12 +147,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d58f1fcca516df5",
+  "active": "47c539fb282bd056",
   "lastOpenFiles": [
+    "linux/oh-my-zsh.md",
     "tools/git.md",
     "tools/linux.md",
     "tools/node.md",
-    "linux/oh-my-zsh.md",
     "README.md",
     "Untitled.md",
     "2022-12-17.md",
