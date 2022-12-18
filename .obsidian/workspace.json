@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "tools/linux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47c539fb282bd056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/oh-my-zsh.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "linux/oh-my-zsh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "linux/oh-my-zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "linux/oh-my-zsh.md"
               }
             }
           }
@@ -138,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d58f1fcca516df5",
+  "active": "47c539fb282bd056",
   "lastOpenFiles": [
-    "tools/node.md",
-    "tools/linux.md",
     "tools/git.md",
+    "tools/linux.md",
+    "tools/node.md",
+    "linux/oh-my-zsh.md",
+    "README.md",
     "Untitled.md",
     "2022-12-17.md",
-    "README.md",
     "Test.md",
     "Title1.md",
-    "Title.md",
-    "sth to link.md"
+    "Title.md"
   ]
 }
