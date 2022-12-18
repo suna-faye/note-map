@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c816c144de495924",
+        "id": "1f2860ebd0e8d36e",
         "type": "tabs",
         "children": [
           {
-            "id": "357cebe6941e91f2",
+            "id": "907e8e790d1e50ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/git.md",
+                "file": "Tools/linux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/git.md",
+                "file": "Tools/linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/git.md",
+                "file": "Tools/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/git.md"
+                "file": "Tools/linux.md"
               }
             }
           }
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "357cebe6941e91f2",
+  "active": "907e8e790d1e50ca",
   "lastOpenFiles": [
-    "2022-12-17.md",
+    "Tools/node.md",
+    "Tools/linux.md",
     "Tools/git.md",
-    "README.md",
     "Untitled.md",
+    "2022-12-17.md",
+    "README.md",
     "Test.md",
     "Title1.md",
     "Title.md",
-    "sth to link.md",
-    "another page.md",
-    "ne page.md"
+    "sth to link.md"
   ]
 }
